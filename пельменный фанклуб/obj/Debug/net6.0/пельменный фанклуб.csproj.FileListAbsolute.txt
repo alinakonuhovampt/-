@@ -1,0 +1,15 @@
+C:\Users\konyu\OneDrive\Рабочий стол\c sharp\пельменный фанклуб\пельменный фанклуб\bin\Debug\net6.0\пельменный фанклуб.exe
+C:\Users\konyu\OneDrive\Рабочий стол\c sharp\пельменный фанклуб\пельменный фанклуб\bin\Debug\net6.0\пельменный фанклуб.deps.json
+C:\Users\konyu\OneDrive\Рабочий стол\c sharp\пельменный фанклуб\пельменный фанклуб\bin\Debug\net6.0\пельменный фанклуб.runtimeconfig.json
+C:\Users\konyu\OneDrive\Рабочий стол\c sharp\пельменный фанклуб\пельменный фанклуб\bin\Debug\net6.0\пельменный фанклуб.dll
+C:\Users\konyu\OneDrive\Рабочий стол\c sharp\пельменный фанклуб\пельменный фанклуб\bin\Debug\net6.0\пельменный фанклуб.pdb
+C:\Users\konyu\OneDrive\Рабочий стол\c sharp\пельменный фанклуб\пельменный фанклуб\obj\Debug\net6.0\пельменный фанклуб.csproj.AssemblyReference.cache
+C:\Users\konyu\OneDrive\Рабочий стол\c sharp\пельменный фанклуб\пельменный фанклуб\obj\Debug\net6.0\пельменный фанклуб.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konyu\OneDrive\Рабочий стол\c sharp\пельменный фанклуб\пельменный фанклуб\obj\Debug\net6.0\пельменный фанклуб.AssemblyInfoInputs.cache
+C:\Users\konyu\OneDrive\Рабочий стол\c sharp\пельменный фанклуб\пельменный фанклуб\obj\Debug\net6.0\пельменный фанклуб.AssemblyInfo.cs
+C:\Users\konyu\OneDrive\Рабочий стол\c sharp\пельменный фанклуб\пельменный фанклуб\obj\Debug\net6.0\пельменный фанклуб.csproj.CoreCompileInputs.cache
+C:\Users\konyu\OneDrive\Рабочий стол\c sharp\пельменный фанклуб\пельменный фанклуб\obj\Debug\net6.0\пельменный фанклуб.dll
+C:\Users\konyu\OneDrive\Рабочий стол\c sharp\пельменный фанклуб\пельменный фанклуб\obj\Debug\net6.0\refint\пельменный фанклуб.dll
+C:\Users\konyu\OneDrive\Рабочий стол\c sharp\пельменный фанклуб\пельменный фанклуб\obj\Debug\net6.0\пельменный фанклуб.pdb
+C:\Users\konyu\OneDrive\Рабочий стол\c sharp\пельменный фанклуб\пельменный фанклуб\obj\Debug\net6.0\пельменный фанклуб.genruntimeconfig.cache
+C:\Users\konyu\OneDrive\Рабочий стол\c sharp\пельменный фанклуб\пельменный фанклуб\obj\Debug\net6.0\ref\пельменный фанклуб.dll
